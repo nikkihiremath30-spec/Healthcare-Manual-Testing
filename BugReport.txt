@@ -1,0 +1,3 @@
+BUG_01: Error message not clear
+BUG_02: UI alignment issue
+BUG_03: Missing validation
