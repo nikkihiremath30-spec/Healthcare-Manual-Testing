@@ -1,3 +1,3 @@
-BUG_01: Error message not clear
-BUG_02: UI alignment issue
-BUG_03: Missing validation
+BUG_01: Error message is not user-friendly on invalid login
+BUG_02: UI alignment issue in patient list page
+BUG_03: No proper validation for empty fields
