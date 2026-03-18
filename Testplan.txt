@@ -1,0 +1,4 @@
+Project Name: Healthcare Management System Testing
+Objective: To test login and patient modules
+Scope:Login, Patient Registration, Patient Search
+Testing Types: Functional, UI, Regression
