@@ -1,0 +1,4 @@
+TS_01: Login with valid data
+TS_02: Login with invalid data
+TS_03: Register patient
+TS_04: Search patient
