@@ -1,0 +1,5 @@
+
+TC_01: Enter valid login → Success
+TC_02: Enter wrong password → Error
+TC_03: Register patient → Success
+TC_04: Search patient → Result shown
